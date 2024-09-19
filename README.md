@@ -6,6 +6,8 @@ For more information, see: [https://www.dazzagreenwood.com/p/legislative-hearing
 
 View the accompanying website on [GitHub](https://github.com/dazzaji/03_agento/tree/site)
 
+View the code on [https://github.com/dazzaji/03_agento/tree/main](https://github.com/dazzaji/03_agento/tree/main) (coming soon)
+
 ## Podcasts
 
 ### Podcast 1: The Wyoming Legislative Hearing on LLM Agents and Law
